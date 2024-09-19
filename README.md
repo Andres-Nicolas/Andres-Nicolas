@@ -1,6 +1,8 @@
 <h1 align="center">!Hi! I'm Nicolas Rodriguez<a><br>
 <img aling="center" width="100" height="100" src="https://github.com/Andres-Nicolas/Andres-Nicolas/blob/main/Logo%20nicolas%20rodriguez.png">
 <h2 align="center">Informatic Engineer Student AUNAR
+  ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 <p>
   <li align ="left">I'm constantly learning.
   <li align ="left">I'm interested in Web development and databases.
